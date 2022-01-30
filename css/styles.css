@@ -640,6 +640,11 @@ input[type='checkbox'] {
 		width: 100%;
 		margin-top: -10%;
 	}
+	.basic-3 .image-container .tesla{
+		width: 100%;
+		height:450px;
+		display: block;
+	}
   }
 
 .split .area-2 {
@@ -698,6 +703,12 @@ input[type='checkbox'] {
 .basic-3 .image-container img {
 	margin: 0;
 	transition: all 0.2s;
+}
+
+.tesla{
+	width: 100%;
+	height:700px;
+	display: block;
 }
 
 .basic-3 .image-container:hover img {
